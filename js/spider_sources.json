@@ -131,40 +131,4 @@
         "instance": "laobai20240831",
         "webSite": "https://apk-lb-json.fodexin.com",
         "remark": ""
-    },
-    {
-        "name": "麻豆社",
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/madou.js",
-        "instance": "madou20240626",
-        "webSite": "https://madou.club",
-        "remark": "需海外IP"
-    },
-    {
-        "name": "MISSAV",
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/missav.js",
-        "instance": "missav20240627",
-        "webSite": "https://missav.com",
-        "remark": ""
-    },
-    {
-        "name": "Jable",
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/jable.js",
-        "instance": "jable20240831",
-        "webSite": "https://jable.tv",
-        "remark": ""
-    },
-    {
-        "name": "玩偶姐姐",
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/hkdoll.js",
-        "instance": "hkdoll20240705",
-        "webSite": "https://hongkongdollvideo.com",
-        "remark": ""
-    },
-    {
-        "name": "Netflav",
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/netflav.js",
-        "instance": "netflav20240905",
-        "webSite": "https://www.netflav.com",
-        "remark": ""
     }
-]
